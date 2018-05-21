@@ -1,0 +1,7 @@
+abc sorrendbe a konyvtar elemeit, utana copy
+curzor homokora legyen ha dolgozik, mutatoujj ha gomb felett van
+ikonok a listas gomboknak
+clear log gomb + normalis, egyertelmu cancel
+a statusz panel kulon dialogba / ablakba
+gombok ne kozepen, foleg az exit ne
+file-onkent progress bar a masolaskor
